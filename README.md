@@ -7,5 +7,5 @@ Instalacion de Git
 Datos Personales
 ================
 
-Nombre: Juan Mendoza
-Cedula: 18758704
+- Nombre: Juan Mendoza
+- Cedula: 18758704
