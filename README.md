@@ -1,4 +1,11 @@
-gnulinux
-========
+Instalacion de Git
+==================
 
-Repositorio de la Actividad del Curso
+- aptitude install git
+
+
+Datos Personales
+================
+
+Nombre: Juan Mendoza
+Cedula: 18758704
